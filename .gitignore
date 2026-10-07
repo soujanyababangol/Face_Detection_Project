@@ -10,17 +10,5 @@ env/
 __pycache__/
 *.py[cod]
 
-# Test/output files
-image_output/
-video_output/
-
-# Input images/videos
-image_input/
-video_input/
-
-# ML model files
-model/*.pb
-model/*.pbtxt
-
 # Logs
 *.log
